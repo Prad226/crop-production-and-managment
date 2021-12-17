@@ -1,0 +1,12 @@
+body{
+  background-image:url(https://assets.epicurious.com/photos/605ce315b1622a8602ec4bb0/1:1/w_1920,c_limit/HomemadePancakeMix_RECIPE_v1_032521_11975_VOG_final.jpg);
+  color:blue;
+  font-size:20px;
+}
+h1{
+  color:red;
+  font-size:30px;
+}
+p{
+  font-size: 250px;
+}
